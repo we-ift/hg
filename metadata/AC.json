@@ -1,0 +1,8 @@
+{
+"value" : ["turn on", "turn off"],
+"mode" : {"value": ["heat", "holiday", "comfort", "auto", "fan only", "set", "change", "cool", "econo", "dry"]},
+"scene" : {"value": ["execute"]},
+"comfort_feedback" : {"value": ["provide"]},
+"alert" : {"value": ["message"]},
+"notification" : {"value": ["detect"]}
+}

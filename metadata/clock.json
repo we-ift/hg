@@ -1,0 +1,11 @@
+{
+"notification" : {"value": ["display"]},
+"face" : {"value": ["set"]},
+"indicator_app" : {"value": ["update"]},
+"timer" : {"value": ["finish", "reset", "start"]},
+"notice" : {"value": ["show"]},
+"glance_app" : {"value": ["trigger"]},
+"segment" : {"value": ["show"]},
+"value" : ["alarm"],
+"button" : {"value": ["press"]}
+}

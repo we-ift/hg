@@ -1,0 +1,13 @@
+{
+"valves" : {"value": ["close"]},
+"water" : {"value": ["start", "stop"]},
+"value" : ["start", "disconnect", "stop"],
+"device" : {"value": ["enable"]},
+"program" : {"value": ["run"]},
+"weather_data" : {"value": ["provide"]},
+"soil" : {"value": ["wet"]},
+"new_event" : {"value": ["generat"]},
+"measured_data" : {"value": ["report"]},
+"schedule" : {"value": ["complete"]},
+"moisture_value" : {"value": ["calculate"]}
+}

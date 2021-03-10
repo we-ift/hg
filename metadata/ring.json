@@ -1,0 +1,5 @@
+{
+"value" : ["turn on", "turn off"],
+"led_color" : {"value": ["change"]},
+"button" : {"value": ["press"]}
+}

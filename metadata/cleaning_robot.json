@@ -1,0 +1,5 @@
+{
+"program" : {"value": ["resume", "pause"]},
+"mode" : {"value": ["change"]},
+"value" : ["start"]
+}

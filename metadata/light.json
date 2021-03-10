@@ -1,0 +1,12 @@
+{
+"value" : ["turn on", "dim", "change", "blink", "turn off", "fade"],
+"scene" : {"value": ["turn on", "set"]},
+"color" : {"value": ["set", "change"]},
+"brightness_level" : {"value": ["less value", "set", "change"]},
+"colorloop" : {"value": ["turn on"]},
+"event" : {"value": ["start"]},
+"mode" : {"value": ["set", "change"]},
+"color_temperature" : {"value": ["change"]},
+"power" : {"value": ["control"]},
+"effect" : {"value": ["play"]}
+}

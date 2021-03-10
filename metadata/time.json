@@ -1,0 +1,5 @@
+{
+"event" : {"value": ["create", "add"]},
+"value" : ["sunrise", "event  end", "event start", "christmas", "sunset", "specific time"],
+"new_event" : {"value": ["add"]}
+}

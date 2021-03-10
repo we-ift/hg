@@ -1,0 +1,13 @@
+{
+"temperature" : {"value": ["less value", "greater value"]},
+"wind_speed" : {"value": ["greater value"]},
+"uv" : {"value": ["greater value"]},
+"value" : ["change", "lightning strike", "new observation"],
+"current_pollen_count" : {"value": ["greater value"]},
+"rain" : {"value": ["detect"]},
+"current_weather" : {"value": ["report"]},
+"tomorrow_weather" : {"value": ["report"]},
+"daily_rain" : {"value": ["greater value"]},
+"tomorrow_temperature" : {"value": ["less value", "greater value"]},
+"new_date" : {"value": ["update"]}
+}

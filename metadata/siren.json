@@ -1,0 +1,7 @@
+{
+"motion_detection" : {"value": ["turn on", "turn off"]},
+"value" : ["turn on", "arm", "disarm", "turn off"],
+"light" : {"value": ["turn on", "turn off"]},
+"battery" : {"value": ["low"]},
+"status" : {"value": ["change"]}
+}

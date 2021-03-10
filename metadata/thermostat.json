@@ -1,0 +1,18 @@
+{
+"fan" : {"value": ["turn on"]},
+"schedule" : {"value": ["resume", "override", "default", "change"]},
+"mode" : {"value": ["home", "frost-guard", "heat", "value", "auto", "standby", "turn on", "away", "set", "change", "cool", "not equal away", "manual", "cancel", "schedule", "new"]},
+"setting" : {"value": ["hold"]},
+"setpoint" : {"value": ["value"]},
+"value" : ["error", "offline", "turn on", "pause", "turn off", "online", "unpause"],
+"program" : {"value": ["resume"]},
+"action" : {"value": ["disable", "enable"]},
+"vacation_event" : {"value": ["create"]},
+"timer_boost" : {"value": ["activate"]},
+"temperature" : {"value": ["greater value"]},
+"notification" : {"value": ["create"]},
+"battery" : {"value": ["low"]},
+"nearly" : {"value": ["battery out"]},
+"set_temperature" : {"value": ["change"]},
+"light" : {"value": ["turn on", "turn off"]}
+}

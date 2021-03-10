@@ -1,0 +1,10 @@
+{
+"cooker" : {"mode": {"value": ["set"]}},
+"order" : {"value": ["prep", "place", "checked", "in oven", "delivery", "ready"]},
+"cooktop" : {"value": ["turn on"]},
+"cooktop_timer" : {"value": ["elapsed"]},
+"child_lock" : {"value": ["deactivate"]},
+"sensor_battery" : {"value": ["empty"]},
+"cookit" : {"value": ["turn on", "finish", "start"]},
+"timer" : {"value": ["finish"]}
+}

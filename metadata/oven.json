@@ -1,0 +1,7 @@
+{
+"program" : {"value": ["preheat"]},
+"value" : ["turn on", "turn off"],
+"mode" : {"value": ["sabbath", "heating"]},
+"timer" : {"value": ["elapse"]},
+"door" : {"value": ["close", "open"]}
+}

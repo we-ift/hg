@@ -1,0 +1,17 @@
+{
+"task" : {"value": ["create"]},
+"list" : {"value": ["add"]},
+"note" : {"value": ["create", "send"]},
+"bookmark" : {"value": ["create", "add"]},
+"journal" : {"value": ["create"]},
+"issue" : {"value": ["create"]},
+"output" : {"value": ["deactivate", "activate"]},
+"profile_picture" : {"value": ["update"]},
+"post" : {"value": ["add"]},
+"bio" : {"value": ["update"]},
+"web_page" : {"value": ["save"]},
+"file" : {"value": ["create"]},
+"sms" : {"value": ["receive", "send"]},
+"email" : {"value": ["send"]},
+"notification" : {"value": ["send"]}
+}

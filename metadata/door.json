@@ -1,0 +1,6 @@
+{
+"value" : ["close", "change", "open"],
+"ringmode" : {"value": ["continuous", "open"]},
+"doorbell" : {"value": ["press"]},
+"battery" : {"value": ["critical"]}
+}

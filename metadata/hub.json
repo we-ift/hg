@@ -1,0 +1,6 @@
+{
+"chirp" : {"value": ["make"]},
+"mode" : {"value": ["set"]},
+"value" : ["on"],
+"state" : {"value": ["specific"]}
+}

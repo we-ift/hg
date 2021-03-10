@@ -1,0 +1,10 @@
+{
+"program" : {"value": ["start"]},
+"value" : ["turn on", "start", "turn off"],
+"brew" : {"value": ["finish", "start"]},
+"mix_program" : {"value": ["start"]},
+"world_program" : {"value": ["start"]},
+"water_tank" : {"value": ["empty"]},
+"bean_container" : {"value": ["empty"]},
+"water_filter" : {"value": ["need replace"]}
+}

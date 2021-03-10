@@ -1,0 +1,9 @@
+{
+"program" : {"value": ["start"]},
+"value" : ["turn off"],
+"cycle" : {"value": ["end", "start"]},
+"rinse_aid_level" : {"value": ["low"]},
+"leak" : {"value": ["detect"]},
+"filter" : {"value": ["need clean"]},
+"door" : {"value": ["open"]}
+}

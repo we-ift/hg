@@ -1,0 +1,4 @@
+{
+"value" : ["lock", "unlock", "uncalibrated"],
+"battery" : {"value": ["critical"]}
+}

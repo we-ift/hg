@@ -1,0 +1,9 @@
+{
+"value" : ["come work", "idle", "come home"],
+"geo_circle" : {"value": ["exit", "enter"]},
+"trip" : {"value": ["end", "start"]},
+"fuel" : {"value": ["low"]},
+"new_trip" : {"value": ["complete"]},
+"check_engine_light" : {"value": ["on"]},
+"battery_level" : {"value": ["low"]}
+}

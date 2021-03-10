@@ -1,0 +1,8 @@
+{
+"value" : ["turn on", "change", "turn off"],
+"view" : {"value": ["change", "search"]},
+"clock" : {"value": ["show", "hide"]},
+"weather_forecast" : {"value": ["show", "hide"]},
+"event" : {"value": ["display"]},
+"calendar" : {"value": ["display", "hide"]}
+}

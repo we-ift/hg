@@ -1,0 +1,5 @@
+{
+"value" : ["long press", "press", "double press", "turn on", "blink", "turn off", "short press"],
+"scene" : {"value": ["run"]},
+"mdoe" : {"value": ["standby"]}
+}

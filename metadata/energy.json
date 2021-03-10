@@ -1,0 +1,7 @@
+{
+"electricity_price" : {"value": ["normal", "point"]},
+"savings" : {"value": ["announced"]},
+"low_hour" : {"value": ["end", "start"]},
+"climate_impact" : {"value": ["low", "high"]},
+"meter" : {"value": ["get alerts"]}
+}

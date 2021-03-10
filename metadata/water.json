@@ -1,0 +1,15 @@
+{
+"hot" : {"value": ["turn on", "increase", "turn off"], "mode": {"value": ["standard", "boost", "set", "hybird", "vacation", "heat pump"]}, "temperature": {"value": ["set"]}, "energy": {"value": ["greater value"]}, "air_filter": {"dirty": {"value": ["80"]}}},
+"value" : ["turn on", "turn off"],
+"valve" : {"value": ["close", "allow", "start"]},
+"leak_alarm" : {"value": ["turn on"]},
+"mode" : {"value": ["home", "rain_delay"]},
+"shower" : {"value": ["start"]},
+"schedule_mode" : {"value": ["change"]},
+"alarm" : {"value": ["detect", "reset"]},
+"watering" : {"value": ["start", "skip", "stop"]},
+"leak" : {"value": ["detect"]},
+"event" : {"value": ["register"]},
+"temperature" : {"value": ["greater setpoint", "setpoint"]},
+"new_swimming_pool_measurement" : {"value": ["available"]}
+}

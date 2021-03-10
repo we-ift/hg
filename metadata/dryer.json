@@ -1,0 +1,7 @@
+{
+"value" : ["turn off"],
+"program" : {"value": ["pause", "start"]},
+"cycle" : {"value": ["end", "start"]},
+"filter" : {"value": ["full"]},
+"condensate_container" : {"value": ["full"]}
+}

@@ -1,0 +1,18 @@
+{
+"music" : {"value": ["play"]},
+"ringtone" : {"value": ["50", "mute"]},
+"bluetooth" : {"value": ["turn on", "connect", "disconnect", "turn off"]},
+"album" : {"value": ["save"]},
+"call" : {"value": ["call", "answer", "receive", "end", "miss"]},
+"number" : {"text": {"value": ["call play"]}},
+"google_navigation" : {"value": ["launch"]},
+"task" : {"value": ["create"]},
+"photo" : {"value": ["upload", "add"]},
+"value" : ["unplug", "plug in"],
+"wifi" : {"value": ["connect", "change", "disconnect"]},
+"battery" : {"value": ["less 15"]},
+"new_photo" : {"value": ["take", "add"]},
+"new_notification" : {"value": ["receive"]},
+"earphone" : {"value": ["plug"]},
+"new_task" : {"value": ["creat"]}
+}

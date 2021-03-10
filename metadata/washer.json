@@ -1,0 +1,5 @@
+{
+"program" : {"value": ["pause", "start"]},
+"cycle" : {"value": ["end", "start"]},
+"remaining_time" : {"value": ["value"]}
+}

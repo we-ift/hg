@@ -1,0 +1,8 @@
+{
+"value" : ["offline", "turn on", "change", "turn off", "online"],
+"mode" : {"value": ["away", "change", "cancel", "quiet"]},
+"temperature" : {"value": ["value", "greater value", "23"]},
+"action" : {"value": ["disable", "enable"]},
+"radiator" : {"value": ["set"]},
+"leak" : {"value": ["detect"]}
+}

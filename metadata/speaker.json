@@ -1,0 +1,13 @@
+{
+"favorite" : {"value": ["play"]},
+"value" : ["resume", "mutes", "recall", "turn on", "pause"],
+"volume" : {"value": ["decrease", "increase", "set"]},
+"scene" : {"value": ["run"]},
+"text_speech" : {"value": ["play"]},
+"alarm" : {"value": ["play"]},
+"music" : {"value": ["play", "control"]},
+"timer" : {"value": ["goes off"]},
+"song" : {"value": ["play"]},
+"night_mode" : {"value": ["turn on", "turn off"]},
+"display" : {"value": ["turn on"]}
+}

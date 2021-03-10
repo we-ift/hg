@@ -1,0 +1,11 @@
+{
+"value" : ["turn on", "turn off"],
+"guest_wifi" : {"value": ["disable", "enable"]},
+"router" : {"value": ["reboot"]},
+"daypass_account" : {"value": ["activate"]},
+"activity" : {"value": ["prioritize"]},
+"new_device" : {"value": ["connect"]},
+"device" : {"value": ["connect", "disconnect"]},
+"host_information" : {"value": ["change"]},
+"guest_information" : {"value": ["change"]}
+}

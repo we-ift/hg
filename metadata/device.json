@@ -1,0 +1,15 @@
+{
+"value" : ["lock", "offline", "turn on", "dim", "change", "unlock", "identify", "turn off"],
+"dim_level" : {"value": ["change"]},
+"command" : {"value": ["trigger"]},
+"level" : {"value": ["set"]},
+"temperature" : {"value": ["set"]},
+"function" : {"value": ["call"]},
+"mode" : {"value": ["change"]},
+"windspeed" : {"value": ["set"]},
+"event" : {"value": ["detect", "publish"]},
+"state" : {"value": ["change"]},
+"moisture" : {"value": ["detect"]},
+"relative_humidity_level" : {"value": ["less value", "greater value"]},
+"status" : {"value": ["error"]}
+}

@@ -1,0 +1,11 @@
+{
+"power" : {"value": ["cool"]},
+"temperature" : {"value": ["4", "high"]},
+"mode" : {"value": ["sabbath", "change"]},
+"setpoint" : {"value": ["change"]},
+"door" : {"value": ["open"]},
+"item" : {"value": ["add"]},
+"alarm" : {"value": ["raise"]},
+"egg_count" : {"value": ["less number"]},
+"filter" : {"value": ["need replace"]}
+}
