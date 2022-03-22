@@ -1,0 +1,12 @@
+
+t_entity
+deviceid	attribute	comparetype	newvalue	influence
+79	equipment status	1	3	1
+79	equipment status	1	4	-1
+84	equipment status	1	1	1
+99	equipment status	1	3	1
+99	equipment status	1	4	-1
+103	equipment status	1	1	1
+116	equipment status	1	3	1
+116	equipment status	1	4	-1
+117	equipment status	1	1	1

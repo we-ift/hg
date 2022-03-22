@@ -1,0 +1,18 @@
+
+rules_table_example
+ruleId	ruleName	conditionIds	actionIds	dayofweeks	starttime	endtime
+320	If PM2.5 dust detector - living room PM2.5 concentration is greater than light pollution (75-115), then air purifier - living room wind speed is mid-range	337	353	1,2,3,4,5,6,7	00:00:00	23:59:59
+321	If PM2.5 dust detector - living room PM2.5 concentration is greater than light pollution (75-115), then air purifier - living room equipment status is open	337	352	1,2,3,4,5,6,7	00:00:00	23:59:59
+322	if air conditioner-living room device status is equal to cooling mode, windows-living room device status is equal to off, then humidifier-living room device status is on	339,338	354	1,2,3,4,5,6,7	00:00:00	23:59:59
+323	if the infrared human body sensor - the human body detection in the living room is equal to someone, then the light - the status of the living room device is on	340	355	1,2,3,4,5,6,7	00:00:00	23:59:59
+324	If the lighting lamp-living room device state is equal to off, the TV-living room device state is equal to on, then the TV wall lamp-living room device state is open	342,341	356	1,2,3,4,5,6,7	00:00:00	23:59:59
+325	if temperature sensor - living room temperature is greater than 30, then air conditioner - living room equipment status is cooling mode	343	357	1,2,3,4,5,6,7	00:00:00	23:59:59
+326	If the humidifier-living room storage water volume (%) is less than 10, the projector-living room equipment status is equal to open, then the humidifier-living room equipment status is closed	345,344	358	1,2,3,4,5,6,7	00:00:00	23:59:59
+388	if infrared human body sensor - human body detection in the living room is equal to no one, electric curtains - the status of the living room equipment is equal to on, then the lighting - the status of the living room equipment is off	390,389	421	1,2,3,4,5,6,7	00:00:00	23:59:59
+389	If the TV wall lamp - the living room equipment status is equal to open, then the electric curtain - the living room equipment status is open	391	422	1,2,3,4,5,6,7	00:00:00	23:59:59
+390	if motorized curtains-living room equipment status is equal to open, then projector-living room equipment status is open	392	423	1,2,3,4,5,6,7	00:00:00	23:59:59
+405	if window-living room device status is equal to open, then smart speaker-living room volume is 16	413	438	1,2,3,4,5,6,7	00:00:00	23:59:59
+413	if motorized curtain-office equipment status is equal to open, then printer-office equipment status is open	419	446	1,2,3,4,5,6,7	00:00:00	23:59:59
+429	if the smart door lock - the state of the living room device is equal to open, then the light - the state of the living room device is open	435	462	1,2,3,4,5,6,7	00:00:00	23:59:59
+1401	If the electric curtain - the state of the living room equipment is equal to open, then PM2.5 dust detector - the state of the living room equipment is open	1383	1438	1,2,3,4,5,6,7	00:00:00	23:59:59
+1587	if window-bedroom device status is equal to open, then wall lamp-bedroom device status is open	1508	1629	1,2,3,4,5,6,7	00:00:00	23:59:59

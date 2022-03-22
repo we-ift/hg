@@ -1,0 +1,9 @@
+
+t_spec
+device1id	attribute1	newValue1	device2id	attribute2	newValue2	together
+84	equipment status	1	79	equipment status	4	0
+103	equipment status	1	99	equipment status	4	0
+117	equipment status	1	116	equipment status	4	0
+80	Human detection	1	74	equipment status	1	1
+100	Human detection	1	95	equipment status	1	1
+110	equipment status	1	114	equipment status	1	1

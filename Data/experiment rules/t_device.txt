@@ -1,0 +1,93 @@
+
+t_device
+deviceId	deviceUuid	deviceName	readOnlyAttributes	commonAttributes	sceneid
+73	00208756-d02a-4d64-8b5a-aff0cb2e5d9f	PM2.5 Dust Detector - Living Room	[{"default":"Excellent (0-35)","num":"6","name":"PM2.5 Concentration","type":"0","value":["Excellent ( 0-35)","Good (35-75)","Light pollution (75-115)","Moderate pollution (115-150)","Severe pollution (150-250)","Severe pollution (>250)"]}]	[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+74	b80f5b55-40d3-4aa9-872e-82fcc625f662	window - living room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+75	07dedadd-c7cb-45a9-8c38-a937fa1649a7	Electric Curtains - Living Room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+76	cd531c4e-3427-4741-b338-af5ba521cc4e	Electric fan - living room	
+[{"default":"close","num":"4","name":"equipment status","type":"0","value":["first gear","second gear", "Third gear", "Close"]}]	1
+77	81891270-7419-4e83-9199-114e6f33c0c8	TV wall lamp-living room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+78	8e23e4bc-a30e-4db1-b856-e51bda4de5e6	TV - living room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}, {"default":"0","num":"11","name":"Volume","type":"0","value":["0","1","2", "3","4","5","6","7","8","9","10"]},{"default":"0","num":"11" ,"name":"Screen brightness","type":"0","value":["0","1","2","3","4","5","6" ,"7","8","9","10"]}]	1
+79	9ab04ae1-e3d0-41ad-b6ab-640639ac49e5	Air Conditioning - Living Room	
+[{"default":"Off","num":"7","name":"Device Status","type":"0","value":["Off","Ventilation Mode"," Heating Mode","Cooling Mode","Auto Mode","Dehumidification Mode","Sleep Mode"]},{"default":"26","num":"30","name":"Temperature ","type":"1","value":[14,30]},{"default":"auto","num":"4","name":"wind speed","type": "0","value":["Low","Mid","High","Auto"]},{"default":"0.0H","num":"9","name":" Timing time","type":"0","value":["0.0H","0.5H","1.0H","1.5H","2.0H","2.5H","3.0H ","3.5H","4.0H"]}]	1
+80	9623872e-ea46-4e00-8080-27d60e6400c8	Infrared human body sensor - living room	[{"default":"Nobody","num":"2","name":"Human Detection","type":"0","value":["Someone","Nobody"] }]	[{"default":"Open","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+81	0dc41145-a42d-424e-abb1-559e5160bb53	Humidifier - Living Room	[{"default":"0","num":"101","name":"Water storage(%)","type":"1","value":[0,100]}]	[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}, {"default":"0.5h","num":"6","name":"Timing","type":"0","value":["0.5h","1.0h"," 1.5h","2.0h","2.5h","3.0h"]}]	1
+82	7c83c596-69e5-418f-ac77-dd7aea14bc3b	Air Purifier - Living Room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}, {"default":"Auto","num":"4","name":"Wind Speed","type":"0","value":["Low","Mid","High", "Auto"]},{"default":"0.0H","num":"9","name":"Timer","type":"0","value":["0.0H" ,"0.5H","1.0H","1.5H","2.0H","2.5H","3.0H","3.5H","4.0H"]}]	1
+83	869354c2-4b19-4d21-aaca-f9cdffac6896	Router - Living Room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}, {"default":"Normal Mode","num":"2","name":"Mode","type":"0","value":["Normal Mode","Through Wall Mode"] }]	1
+84	bc90fb58-1311-4230-a808-56694a28d980	Heater - living room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+85	e6436831-e91d-423a-a2bd-dc2dcd1549f5	Sweeping robot-living room	
+[{"default":"shutdown","num":"2","name":"device status","type":"0","value":["start","shutdown"]}]	1
+86	c5f2d6a3-bc5d-4c71-90fd-c027daf7cf5c	Sound and light alarm - living room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+87	6fee82d6-e51e-44cc-8559-a974db3b0071	Projector - Living Room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+88	e4224ac5-dc86-4ec7-ba73-0c0fdc18913f	Temperature Sensor - Living Room	[{"default":"0","num":"41","name":"temperature","type":"1","value":[0,40]}]	[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+89	59b269c8-6d37-4603-8ae5-9b404742b635	Smoke Detector - Living Room	[{"default":"No smoke","num":"2","name":"Smoke detection","type":"0","value":["Smoke","No smoke" ]}]	[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+90	8ce2b2b5-03d7-42a8-895c-865f08d5c25a	Smart Audio - Living Room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}, {"default":"0","num":"21","name":"Volume","type":"0","value":["0","1","2", "3","4","5","6","7","8","9","10","11","12","13","14","15 ","16","17","18","19","20"]}]	1
+91	9004ca0c-5a4a-434c-bcfb-8e40e6df1958	Lighting - living room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+92	d763cbbf-fee6-4598-97eb-c2dfe1313e6c	Lighting - Entrance	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+93	f2d67662-dfc9-4b24-bda5-f245e73a61be	Smart socket - living room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+94	859135e8-9734-4fa8-ab66-7e23cb315340	Smart Door Lock-Living Room	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
+95	de72e9e7-306f-4f1e-a96d-5a31982c3827	Windows - Office	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	2
+96	17e307a4-7ed4-437b-ad99-5a934078ff7e	Printer - Office	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	2
+97	d479be53-1328-4f84-b46d-039b5b9a4055	Electric Curtains - Office	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	2
+98	bb3eba7c-11dc-499d-986f-7aee5cf9ab76	Computer - Office	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}, {"default":"0","num":"11","name":"screen brightness","type":"0","value":["0","1","2" ,"3","4","5","6","7","8","9","10"]}]	2
+99	5edc6cac-79f4-4701-a41b-270cc13eafc4	Air Conditioning - Office	
+[{"default":"Off","num":"7","name":"Device Status","type":"0","value":["Off","Ventilation Mode"," Heating Mode","Cooling Mode","Auto Mode","Dehumidification Mode","Sleep Mode"]},{"default":"26","name":"Temperature","type":"1 ","value":[14,30]},{"default":"auto","num":"4","name":"wind speed","type":"0","value": ["Low","Mid","High","Auto"]},{"default":"0.0H","num":"9","name":"Time","type": "0","value":["0.0H","0.5H","1.0H","1.5H","2.0H","2.5H","3.0H","3.5H"," 4.0H"]}]	2
+100	ceb1d576-15fc-4ca8-8e7c-54c7961e435a	Infrared human body sensor-office	[{"default":"Nobody","num":"2","name":"Human Detection","type":"0","value":["Someone","Nobody"] }]	[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	2
+101	4f414688-d46d-4ada-b810-e3f75808b0ae	Humidifier - Office	[{"default":"0","num":"101","name":"Storage water volume (%)","type":"1","value":[0,100]}]	[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}, {"default":"0.5h","num":"6","name":"Timing","type":"0","value":["0.5h","1.0h"," 1.5h","2.0h","2.5h","3.0h"]}]	2
+102	0cf95f64-9c4a-4849-bb33-580ee04cc614	Air Purifier - Office	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}, {"default":"Auto","num":"4","name":"Wind Speed","type":"0","value":["Low","Mid","High", "Auto"]},{"default":"0.0H","num":"9","name":"Timer","type":"0","value":["0.0H" ,"0.5H","1.0H","1.5H","2.0H","2.5H","3.0H","3.5H","4.0H"]}]	2
+103	b1567073-9adb-4432-b5fd-97fb27502b65	Heater - Office	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	2
+104	59cedb45-0d32-4dbb-b165-2ef965a33101	desk lamp-office	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	2
+105	eabedb0b-7c7c-4b4b-9b73-87615d57d920	Temperature Sensor - Office	[{"default":"0","num":"41","name":"temperature","type":"1","value":[0,40]}]	[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	2
+106	0f15c830-3c3d-4081-bbc8-d35c898e7378	water dispenser	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	2
+107	8eceecab-f950-4904-a763-3f7016809bc8	Lighting - Office	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	2
+108	6c694de8-6d71-412f-bab2-ed73c9fafc11	Smart Socket - Office	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	2
+109	6586ef34-9b7b-407b-8aaf-8405c3ddfad8	Smart Door Lock - Office	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	2
+110	e5cd25d9-1b6d-413e-9a2f-ec1fae910b90	Wall Lamp - Bedroom	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	3
+111	70456111-0a89-4b0a-a572-95ec8bf53b48	window - bedroom	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	3
+112	ddaea3ff-f3bc-4f5c-b759-70f1c084a0ee	Electric Curtains - Bedroom	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	3
+113	1082419a-ee41-4345-9c84-463c51b59dd6	Electric Blanket - Bedroom	
+[{"default":"Close","num":"7","name":"Device Status","type":"0","value":["Close","Low-grade","Mid-grade ","upscale"]}]	3
+114	79bc95c2-c3e9-44be-b94b-c0c9d05cc624	TV - bedroom	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}, {"default":"0","num":"11","name":"Volume","type":"0","value":["0","1","2", "3","4","5","6","7","8","9","10"]},{"default":"0","num":"11" ,"name":"Screen brightness","type":"0","value":["0","1","2","3","4","5","6" ,"7","8","9","10"]}]	3
+115	c5ed453f-bbb6-4022-8310-73f9cc1888b8	Humidifier - Bedroom	[{"default":0,"num":"101","name":"Storage water volume (%)","type":"1","value":[0,100]}]	[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}, {"default":"0.5h","num":"6","name":"Timing","type":"0","value":["0.5h","1.0h"," 1.5h","2.0h","2.5h","3.0h"]}]	3
+116	51c9037b-8f14-4d82-adf9-0b4685210dca	Air Conditioning - Bedroom	
+[{"default":"Off","num":"7","name":"Device Status","type":"0","value":["Off","Ventilation Mode"," Heating Mode","Cooling Mode","Auto Mode","Dehumidification Mode","Sleep Mode"]},{"default":"26","name":"Temperature","type":"1 ","value":[14,30]},{"default":"auto","num":"4","name":"wind speed","type":"0","value": ["Low","Mid","High","Auto"]},{"default":"0.0H","num":"9","name":"Time","type": "0","value":["0.0H","0.5H","1.0H","1.5H","2.0H","2.5H","3.0H","3.5H"," 4.0H"]}]	3
+117	f63976da-e9e8-4e7f-ac2d-6c0b12284c2d	Heating - Bedroom	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	3
+118	6d1ca5bb-d32d-44af-8aac-69b45b1dfa6f	Weather Detector - Bedroom	[{"default":"Sunny","num":"7","name":"Weather","type":"0","value":["Sunny","Cloudy","Cloudy ","rainy","snow","smog","sandstorm"]}]	[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	3
+119	9367c1d4-1447-4d1f-8cc0-7cbbcead99b4	Temperature Sensor - Bedroom	[{"default":"0","num":"51","name":"temperature","type":"1","value":[0,50]}]	[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	3
+120	01aa4dfa-63c8-4ffc-9710-cb43e36d4a73	Musical Alarm Clock - Bedroom	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}, {"default":"0","num":"11","name":"Volume","type":"0","value":["0","1","2", "3","4","5","6","7","8","9","10"]}]	3
+121	15a99501-8220-420d-8a13-f2757b63fc57	Lighting - bedroom	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	3
+122	f47f4aa1-6fba-4482-b658-fdaf0f415a8c	Smart Outlet - Bedroom	
+[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	3
+123	6d1ca5bb-d32d-44af-8aac-69b45b1dfa6f	Weather Detector - Living Room	[{"default":"Sunny","num":"7","name":"Weather","type":"0","value":["Sunny","Cloudy","Cloudy ","rainy","snow","smog","sandstorm"]}]	[{"default":"Close","num":"2","name":"Device Status","type":"0","value":["Open","Close"]}]	1
