@@ -2012,4 +2012,3 @@ ruleId	ruleName	conditionIds	actionIds	dayofweeks	starttime	endtime	userId	scene
 2344	if the weather detector-bedroom weather is equal to rainy day, then the window-bedroom device status is closed	2221	2394	1,2,3,4,5,6,7	00:00:00	23:59:00	81	3
 2345	if temperature sensor-office temperature is less than 24, then air conditioner-office wind speed is low	2222	2395	1,2,3,4,5,6,7	00:00:00	23:59:00	81	2
 2346	if the window-living room device state is equal to open, then the heater-living room device state is off	2223	2396	1,2,3,4,5,6,7	00:00:00	23:59:59	141	1
-2347	if motorized curtain-living room device status is equal to open, then motorized curtain-living room device status is open	2226	2399	1,2,3,4,5,6,7	10:00:00	09:59:59	142	1

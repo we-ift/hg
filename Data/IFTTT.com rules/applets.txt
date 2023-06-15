@@ -2781,7 +2781,7 @@
 "3994"	"Close Gogogate2 garage door using Amazon echo"	"['1186']"	"['1438']"	"vcXve2zY"	"1914"	"svvikki"
 "3995"	"Google Assistant opens garrage door"	"['27']"	"['1439']"	"PyKE4LJW"	"262"	"kinros"
 "3996"	"Lock Your Z-Wave Door Lock at a Specific Time"	"['23']"	"['499']"	"VCUGTbeq"	"1034"	"nchetoora"
-"3997"	"Alexa Tells SmartThings To UNLOCK Front Door. I use the Phrase ''Unlatch front door lock'' (updated)"	"['1186']"	"['497']"	"ZkTKQLm3"	"608"	"montymc1"
+"3997"	"Alexa Tells SmartThings To UNLOCK Front Door. I use the Phrase ''Unlatch front door lock'' (updated)"	"['1186']"	"['497']"	"ZkTKQLm3"	"608"	"montymc1"
 "3999"	"Ask Alexa to unlock front door when guests arrive"	"['1186']"	"['497']"	"Z3jNWc6E"	"665"	"steelels1"
 "4000"	"Tell Alexa to lock your door"	"['1186']"	"['499']"	"E4PJ7nDj"	"271"	"montymc1"
 "4001"	"Lock door"	"['29']"	"['1235']"	"eaUTRNeS"	"53"	"partnerinterfaces"
@@ -3234,7 +3234,7 @@
 "4638"	"Turn off the light when my Netatmo Thermostat is set to away mode"	"['1756']"	"['661']"	"Hq2dyw3u"	"0"	"WiZ"
 "4639"	"Netatmo thermostat disable manual mode"	"['1753']"	"['1742']"	"MWmxThPH"	"38"	"issorcio"
 "4640"	"[ITA] Quando la temperatura scende, cambia impostazioni"	"['26']"	"['225']"	"uA5vyWpH"	"1"	"jeandimuro"
-"4642"	"Marche chauffage sur température extérieure#Netamo_by_Pat"	"['1717']"	"['1742']"	"gwJxQSTr"	"34"	"patskins"
+"4642"	"Marche chauffage sur température extérieure#Netamo_by_Pat"	"['1717']"	"['1742']"	"gwJxQSTr"	"34"	"patskins"
 "4643"	"[ITA] Quando la temperatura si alza, cambia le impostazioni."	"['8']"	"['225']"	"E48YkEyR"	"1"	"jeandimuro"
 "4644"	"When silence falls after 00:00, consider the house as if it was empty."	"['1757']"	"['264', '232']"	"aKEpD2wP"	"3"	"rattoscimmia"
 "4645"	"Turn off the lights when your thermostat is set to Away Mode"	"['1756']"	"['24']"	"N5SqKZuE"	"110"	"netatmo"
@@ -3281,7 +3281,7 @@
 "4695"	"If the temperature outside drops below ___° then set your Nest Thermostat to ___°"	"['26']"	"['228']"	"h8fP6bCi"	"2553"	"nest"
 "4696"	"Set your thermostat to Away Mode"	"['29']"	"['205']"	"vLVQKaGz"	"624"	"netatmo"
 "4698"	"Automatically adjust your Nest thermostat down when the temperature outside rises"	"['8']"	"['228']"	"gLUBaV2q"	"1428"	"Nest Thermostat"
-"4699"	"Alerte piles thermostat#Netamo_by_Pat"	"['1752']"	"['37']"	"hbxhwB28"	"458"	"patskins"
+"4699"	"Alerte piles thermostat#Netamo_by_Pat"	"['1752']"	"['37']"	"hbxhwB28"	"458"	"patskins"
 "4700"	"Set your Honeywell thermostat to a specific temperature if the temperature outside drops"	"['26']"	"['1300']"	"rsnimYDd"	"1880"	"honeywell"
 "4701"	"Set thermostat to default schedule"	"['29']"	"['1742']"	"yvEyX2VZ"	"499"	"netatmo"
 "4702"	"Quickly set your thermostat to 70 degrees"	"['29']"	"['228']"	"SQ5bth63"	"563"	"danamerrick"
@@ -3485,7 +3485,7 @@
 "4997"	"Whenever your lock is unlocked, set your iSmartAlarm system to a mode"	"['726']"	"['731']"	"Kcxs4yPN"	"24"	"August"
 "5006"	"Tell Alexa to Lock Door via Lockitron"	"['1186']"	"['648']"	"c2Mzq34g"	"8"	"awadallah"
 "5010"	"Use this to automatically lock your door at a time of day."	"['92']"	"['499']"	"hLyPtfih"	"13"	"bhilbern"
-"5011"	"Alexa Tells SmartThings To UNLOCK Back Door. I use the Phrase ''Unlatch Back door lock''(updated)"	"['1186']"	"['497']"	"Kepi6JxF"	"23"	"montymc1"
+"5011"	"Alexa Tells SmartThings To UNLOCK Back Door. I use the Phrase ''Unlatch Back door lock''(updated)"	"['1186']"	"['497']"	"Kepi6JxF"	"23"	"montymc1"
 "5016"	"Front door lock at 10pm"	"['23']"	"['499']"	"RQdmZjsi"	"4"	"ksubrama"
 "5017"	"If August Lock is unlocked activate wink shortcut"	"['726']"	"['309']"	"CpYesMuJ"	"9"	"shaferm"
 "5018"	"Lock a LightwaveRF Socket at a specific time"	"['23']"	"['918']"	"hfdwvsrY"	"6"	"lightwaverf"
@@ -3597,7 +3597,7 @@
 "5268"	"Heat the Car , before Frost"	"['1790']"	"['45']"	"JA4Z2Lk8"	"1"	"sparx1"
 "5269"	"alexa the house is cold :)"	"['1186']"	"['1053']"	"BYMsZmDh"	"364"	"stadmanwi"
 "5273"	"Put house into Economy mode during hot days"	"['8']"	"['938']"	"N2AKJbaY"	"202"	"ally153"
-"5274"	"If You say ''Alexa trigger house party'', then breathe lights#houseparty"	"['1186']"	"['1414']"	"JqfjMAh3"	"551"	"saymosaic"
+"5274"	"If You say ''Alexa trigger house party'', then breathe lights#houseparty"	"['1186']"	"['1414']"	"JqfjMAh3"	"551"	"saymosaic"
 "5275"	"House Volume Down"	"['27']"	"['333', '161']"	"N9VX3S4s"	"40"	"christianarthurlandry86"
 "5276"	"Turn off the lights when you leave the house"	"['41']"	"['24']"	"rV4UFBfw"	"146"	"djbouche"
 "5278"	"Light up the house on entrance, but only if you're home at a decent hour"	"['34']"	"['59']"	"aqjyn9up"	"2126"	"gregabyte"
@@ -4501,7 +4501,7 @@
 "6997"	"Garage Door opens - Change Color on Hue"	"['1427']"	"['16']"	"j658KtFM"	"1"	"smithzone"
 "7003"	"When you leave work, text a significant other to let them know."	"['41']"	"['279']"	"uQ3xNi9W"	"1"	"bezcamo"
 "7004"	"Wi-Fi termostat trigger"	"['690']"	"['1095']"	"FYKfdMny"	"1"	"timhovius"
-"7005"	"Water on Water inif it's important drink, Pure Water it's MORE important to shower with Pure Water."	"['589']"	"['37']"	"KA5hvdcP"	"1"	"bigpowerservice"
+"7005"	"Water on Water inif it's important drink, Pure Water it's MORE important to shower with Pure Water."	"['589']"	"['37']"	"KA5hvdcP"	"1"	"bigpowerservice"
 "7006"	"Sunny Day Lights for Lutron Caséta®"	"['374']"	"['439']"	"N5NQTmEx"	"2"	"ifttt_deleted_users"
 "7007"	"If it's going to ☔, notify me! "	"['374']"	"['37']"	"uNtePGsY"	"1"	"faber92"
 "7009"	"Beat the heat!  High temperature alarm!  A must for any Arizona resident!"	"['1005']"	"['45']"	"rVbJrEi3"	"5"	"ugo1st"
@@ -5887,7 +5887,7 @@
 "10259"	"Turn lights off for sleep"	"['23']"	"['24']"	"GkrbQMU3"	"15"	"yoonjs"
 "10261"	"Turn off your WiZ lights with a simple push of a (physical!) button"	"['127']"	"['661']"	"SsJXUegv"	"24"	"Flic"
 "10263"	"Blink a light when the timer goes off to see it even if you don't hear Echo"	"['194']"	"['63']"	"JyfmYH4U"	"1"	"sulisenator"
-"10264"	"Turn lights on"	"['23']"	"['59']"	"diPWX4ym"	"11"	"bertah64"
+"10264"	"Turn lights on"	"['23']"	"['59']"	"diPWX4ym"	"11"	"bertah64"
 "10265"	"Turn lights blue when raining"	"['374']"	"['16']"	"RBMPmw62"	"13"	"huet"
 "10267"	"Allumer Wemo led lighting (Google Assistant )"	"['27']"	"['538']"	"uNSUeG6n"	"14"	"None"
 "10268"	"Turn off Hue and Lifx lights"	"['23']"	"['24', '145']"	"mYy8FUGR"	"14"	"ifttt_deleted_users"
@@ -6211,7 +6211,7 @@
 "10684"	"Turn lights on @sunset"	"['44']"	"['59']"	"Sr3Fy4PR"	"1"	"ffayard"
 "10685"	"Hue Lights to Temperature (F)"	"['594']"	"['16']"	"dkfQHKuM"	"1"	"andrewhelmholtz"
 "10686"	"Lights off at midnight "	"['23']"	"['145']"	"kB6QY2j5"	"1"	"nrasimmons"
-"10687"	"Turn on all lights"	"['1222']"	"['59']"	"cXbpgAfx"	"1"	"tylerstruve"
+"10687"	"Turn on all lights"	"['1222']"	"['59']"	"cXbpgAfx"	"1"	"tylerstruve"
 "10688"	"Ohh nooooo... Lights out!"	"['23']"	"['24']"	"GQcYsEUy"	"1"	"joshcookfair"
 "10689"	"Turn off the lights"	"['41']"	"['145']"	"wrEjichN"	"1"	"akorolev"
 "10690"	"Stair lights on"	"['27']"	"['468']"	"TZkVEJBm"	"1"	"davidbestford"
@@ -6358,7 +6358,7 @@
 "10875"	"Turn on LifX Lights every day at 7pm"	"['23']"	"['144']"	"s8qXv9Mg"	"0"	"georgetsotsos"
 "10876"	"Lifx 10 minute run-up by voice command"	"['1186']"	"['144']"	"UfbRDwmB"	"0"	"carlsoakley"
 "10877"	"LightsOn Downstairs 1am"	"['23']"	"['59']"	"VmWuCyMU"	"0"	"lcb5669299"
-"10879"	"If a weekend turn lights on"	"['92']"	"['59']"	"DK7ciLbq"	"0"	"juancastilo"
+"10879"	"If a weekend turn lights on"	"['92']"	"['59']"	"DK7ciLbq"	"0"	"juancastilo"
 "10881"	"Turn off a light at sunrise"	"['89']"	"['848']"	"rbeiaucj"	"0"	"plnx107"
 "10882"	"Turn on switch at sunset"	"['44']"	"['818']"	"CJgj6thN"	"0"	"st1ddope"
 "10883"	"If wemo switched of show hue lightloop. "	"['895']"	"['313']"	"VnEJDm6M"	"0"	"ifttt_deleted_users"
@@ -6843,7 +6843,7 @@
 "11531"	"If Wemo Switch is turned off, also switch off all my Hue bulbs. #hue #wemo"	"['895']"	"['24']"	"NTEvJyuP"	"74"	"edwardmp"
 "11532"	"Amazon Alexa alarm turns on Belkin Insight Switch"	"['1222']"	"['613']"	"h7c5ZfdT"	"75"	"panchamgeneric"
 "11535"	"If Wemo Switch is turned on, also switch on all my Hue bulbs. #hue #wemo"	"['760']"	"['59']"	"CPYR9mZW"	"54"	"edwardmp"
-"11537"	"switch off"	"['23']"	"['24']"	"y5YSnxXc"	"15"	"kuif73"
+"11537"	"switch off"	"['23']"	"['24']"	"y5YSnxXc"	"15"	"kuif73"
 "11544"	"Send e-mail when Wemo Insight Switch Turns Off"	"['676']"	"['45']"	"Rp9JyDmW"	"27"	"chuckmcf"
 "11545"	"If Wemo Switch turned on then send Gmail"	"['675']"	"['665']"	"TiRdkK3c"	"23"	"chuckmcf"
 "11548"	"Turn Off Smart Switch 2"	"['521']"	"['255']"	"mgZYbLQa"	"12"	"michaelferris_"
@@ -6911,7 +6911,7 @@
 "11634"	"IFTTT経由で「SwitchBot」をオンにする"	"['29']"	"['732']"	"ndQArVZY"	"23"	"SwitchBot"
 "11635"	"If sun rises, turn off. "	"['89']"	"['604']"	"XbNLwyDs"	"13"	"seven0232"
 "11636"	"IF Android Phone Call Missed from NUMBER, THEN Turn on SmartThings SWITCH"	"['1655']"	"['337']"	"bkprtdRH"	"2"	"theifttter"
-"11637"	"Proximity switch for upstairs. "	"['41']"	"['24']"	"Y2EqVUTw"	"1"	"chronosteve"
+"11637"	"Proximity switch for upstairs. "	"['41']"	"['24']"	"Y2EqVUTw"	"1"	"chronosteve"
 "11639"	"WeMo Switch turned on every working day"	"['92']"	"['727']"	"ESJk4B2E"	"1"	"laurentleonard"
 "11640"	"WeMo Switch turned off every working day"	"['92']"	"['217']"	"Wx5ZsTji"	"1"	"laurentleonard"
 "11642"	"Switch off Security System upon Unlock by Authorized Person"	"['495']"	"['42']"	"sKwUxr2C"	"1"	"ifttt_deleted_users"
@@ -7490,7 +7490,7 @@
 "12420"	"ngsdsc3 - daily morning weather"	"['594']"	"['37']"	"CtzCmMNE"	"1"	"charlesgoon"
 "12421"	"wheather helper"	"['594']"	"['37']"	"Vb4cQAKu"	"11"	"greatgamerkid"
 "12422"	"when it rains change the tp link lights to teal"	"['374']"	"['400']"	"waeXVf2B"	"94"	"bbrandeland2021"
-"12424"	"Weather Forecast"	"['595']"	"['665']"	"CH95Ry6j"	"1"	"gayahinatamaru"
+"12424"	"Weather Forecast"	"['595']"	"['665']"	"CH95Ry6j"	"1"	"gayahinatamaru"
 "12425"	"Weather report "	"['594']"	"['37']"	"uYWuXAMa"	"1"	"rekrap"
 "12426"	"Weather Report"	"['594']"	"['37']"	"mzBt2J5P"	"1"	"paulturnerr"
 "12429"	"Weather Report"	"['594']"	"['37']"	"Cz2ZUeuK"	"1"	"msdrealou"
@@ -8471,7 +8471,7 @@
 "13651"	"Tänane ilm"	"['594']"	"['37']"	"BVdEeJZn"	"0"	"arnopps"
 "13652"	"If snow tomorrow send notification"	"['589']"	"['37']"	"bdTwbaRt"	"0"	"syloq"
 "13653"	"What's the weather tomorrow? Find out by notification."	"['594']"	"['37']"	"N5Dza8qh"	"0"	"edwardrou"
-"13654"	"Sluk lyset "	"['89']"	"['24']"	"TkeM84cR"	"0"	"clausdanmark"
+"13654"	"Sluk lyset "	"['89']"	"['24']"	"TkeM84cR"	"0"	"clausdanmark"
 "13655"	"email when temp"	"['595']"	"['45']"	"QyF28GKf"	"0"	"derek1469536023"
 "13656"	"temperatura debajo de 0 -> notificación"	"['26']"	"['37']"	"wKtFMGnW"	"0"	"ifttt_deleted_users"
 "13657"	"Daily weather notification. "	"['594']"	"['37']"	"yNbm8GMi"	"0"	"ifttt_deleted_users"
@@ -8610,7 +8610,7 @@
 "13825"	"Tomorrow's temperature drops below "	"['1790']"	"['37']"	"PAdF5E4Z"	"0"	"tdh357"
 "13827"	"WEMO HVAC Control"	"['8']"	"['727']"	"i5WGkChs"	"0"	"sjsoto"
 "13828"	"Rain Tomorrow? Get an IF Notification (Metric) "	"['589']"	"['37']"	"KmCSrPNg"	"0"	"ifttt_deleted_users"
-"13829"	"Alert alert, the weather changes, it's find i got the alert i have ready for all rain."	"['374']"	"['341']"	"fBaUCN7n"	"0"	"david_dewanto"
+"13829"	"Alert alert, the weather changes, it's find i got the alert i have ready for all rain."	"['374']"	"['341']"	"fBaUCN7n"	"0"	"david_dewanto"
 "13830"	"Check for weather condition"	"['589']"	"['37']"	"cPXAvHY5"	"0"	"arulpraba"
 "13831"	"I do not like rain"	"['589']"	"['37']"	"GicxwEeQ"	"0"	"kevin_lewis"
 "13832"	"Send Forecast"	"['594']"	"['37']"	"ZzLWiHE8"	"0"	"swordslam"
@@ -9918,7 +9918,7 @@
 "16668"	"Remind Yourself to Pay the Rent"	"['928']"	"['37']"	"C56TvbtG"	"164"	"ifttt_user456"
 "16670"	"Start Moodo when it's time to go to bed"	"['23']"	"['882']"	"U7uNhE92"	"1"	"Moodo & Moodo AIR"
 "16673"	"Bed time"	"['23']"	"['197']"	"XXTvUeM9"	"1"	"kpkdevices"
-"16683"	"Nap time"	"['92']"	"['252']"	"J6KVetvj"	"1"	"wysockiconnor"
+"16683"	"Nap time"	"['92']"	"['252']"	"J6KVetvj"	"1"	"wysockiconnor"
 "16686"	"Timecard tracking"	"['47']"	"['341']"	"fCDpgSKw"	"53"	"ifttt_deleted_users"
 "16687"	"Time to save files"	"['23']"	"['285']"	"GAxymwTK"	"1"	"dragelecpc"
 "16695"	"Start Daily Harvest Timer"	"['92']"	"['2108']"	"PHXc4C78"	"4"	"aualdrich"
@@ -10259,7 +10259,7 @@
 "17641"	"Moto 360 - iPhone force Connection 3"	"['94']"	"['37']"	"DLi6eJVC"	"9"	"cwegrecki"
 "17643"	"Wi fi"	"['23']"	"['37']"	"p6PbHakc"	"9"	"saleheirani14"
 "17647"	"If your amazon echo timer goes off it will call your phone"	"['194']"	"['252']"	"YJSjQtFg"	"2"	"benbud2006"
-"17651"	"meditate reminder"	"['23']"	"['37']"	"sSQVy7rv"	"8"	"cfrances"
+"17651"	"meditate reminder"	"['23']"	"['37']"	"sSQVy7rv"	"8"	"cfrances"
 "17654"	"Get an email the day before Talk Like a Pirate Day."	"['149']"	"['45']"	"wY4xgiaH"	"8"	"acrifttt"
 "17655"	"Get out of bed reminder."	"['92']"	"['285']"	"VDHfVxqw"	"8"	"michaelsouellette"
 "17656"	"Remind me to say my breathe prayer every hour. #SpiritualRhythms"	"['94']"	"['37']"	"dKTx2NYE"	"8"	"ifttt_deleted_users"
@@ -10328,7 +10328,7 @@
 "17809"	"Turn on the phone volume"	"['23']"	"['329']"	"SQF2UYTf"	"6"	"vesseline"
 "17810"	"Color loop"	"['149']"	"['313']"	"ey9wgAzF"	"6"	"jimkrokke"
 "17816"	"Do your damn chores"	"['92']"	"['1469']"	"ZfGziYFM"	"6"	"ifttt_deleted_users"
-"17819"	"Daily | 1:30AM [Daily] | #reminder #daily #change"	"['92']"	"['665']"	"VnJZWui2"	"6"	"joelstickney"
+"17819"	"Daily | 1:30AM [Daily] | #reminder #daily #change"	"['92']"	"['665']"	"VnJZWui2"	"6"	"joelstickney"
 "17820"	"[for Journal] Create a note (TODAY) in Evernote everyday."	"['23']"	"['673']"	"ugxjSH8m"	"6"	"bakedpotatoman"
 "17822"	"Notification to pray the Rosary each evening at 10:00."	"['23']"	"['37']"	"PtDTa9dK"	"6"	"donderkis"
 "17825"	"GoPro Daily Giveaway reminder"	"['23']"	"['37']"	"Xx37UjkX"	"6"	"westlund"
